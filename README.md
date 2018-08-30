@@ -7,3 +7,5 @@ I usually order it for carry-out because we're only a few blocks away from the s
 
 I wanted to track the progress of my order, then kick off an IFTTT event to trigger my Google Home to announce when it's time
 to go pick up my pizza.
+
+This script does the first half of that (tracks the progress of the order and parses the XML file).
